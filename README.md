@@ -122,9 +122,593 @@ Crie um repositório no GitHub e inclua os seguintes itens:
 <details>
 <summary><strong>Clique para expandir o PRD completo</strong></summary>
 
-```markdown
-(Cole aqui exatamente o PRD que você já possui, sem alterações)
-```
+````markdown
+# PRD – Bolso Cheio Finanças
+## Assistente Financeiro Inteligente por Conversa
+
+**Versão:** 2.0  
+**Idioma:** Português (Brasil)  
+**Categoria:** Finanças Pessoais + IA Conversacional
+
+---
+
+# 1. Resumo Executivo
+
+O Bolso Cheio Finanças é uma plataforma de gestão financeira pessoal baseada em Inteligência Artificial Conversacional.
+
+Seu principal diferencial é permitir que usuários realizem o controle financeiro utilizando linguagem natural, eliminando a necessidade de planilhas, formulários extensos e interfaces complexas.
+
+A IA atua como um assistente financeiro educativo capaz de registrar movimentações, organizar finanças, acompanhar metas e transformar dados financeiros em orientações simples e compreensíveis.
+
+---
+
+# 2. Problema
+
+Grande parte das pessoas abandona o controle financeiro porque os aplicativos existentes:
+
+- Exigem preenchimento manual excessivo;
+- Possuem interfaces complexas;
+- Utilizam terminologias difíceis;
+- Apresentam pouca personalização;
+- Não convertem dados em orientações práticas.
+
+Como consequência, usuários deixam de acompanhar receitas, despesas e objetivos financeiros.
+
+---
+
+# 3. Objetivos do Produto
+
+Permitir que qualquer pessoa consiga organizar suas finanças por meio de conversas simples.
+
+## Objetivos Principais
+
+- Registrar receitas e despesas via linguagem natural;
+- Categorizar movimentações automaticamente;
+- Exibir situação financeira de forma clara;
+- Permitir criação e acompanhamento de metas;
+- Oferecer educação financeira integrada;
+- Gerar relatórios com insights acionáveis.
+
+---
+
+# 4. Público-Alvo
+
+## Público Primário
+
+- Iniciantes em finanças pessoais;
+- Pessoas que nunca utilizaram aplicativos financeiros;
+- Usuários que desejam abandonar planilhas;
+- Pessoas com baixo nível de educação financeira.
+
+## Público Secundário
+
+- Estudantes;
+- Profissionais autônomos;
+- Pequenos empreendedores;
+- Investidores iniciantes.
+
+---
+
+# 5. Proposta de Valor
+
+Transformar a gestão financeira em uma experiência conversacional simples, educativa e acessível.
+
+O usuário informa suas movimentações como faria em uma conversa cotidiana e a IA realiza automaticamente toda a organização financeira.
+
+### Exemplo
+
+**Usuário**
+
+> Gastei R$ 65 no supermercado hoje.
+
+**Assistente**
+
+> Registrei uma despesa de R$ 65 na categoria Alimentação.
+
+---
+
+# 6. Escopo do Produto
+
+## MVP
+
+### Chat Financeiro Inteligente
+
+Permitir:
+
+- Registro de receitas;
+- Registro de despesas;
+- Consulta de saldo;
+- Consulta de histórico;
+- Dúvidas financeiras.
+
+### Classificação Automática
+
+Categorias padrão:
+
+- Alimentação
+- Transporte
+- Moradia
+- Saúde
+- Educação
+- Lazer
+- Investimentos
+- Outros
+
+### Dashboard Financeiro
+
+Exibir:
+
+- Saldo atual;
+- Receitas do mês;
+- Despesas do mês;
+- Economia acumulada;
+- Evolução financeira.
+
+### Metas Financeiras
+
+Permitir:
+
+- Criação de metas;
+- Acompanhamento de progresso;
+- Percentual concluído;
+- Previsão de conclusão.
+
+### Relatórios Inteligentes
+
+Gerar:
+
+- Relatórios mensais;
+- Comparações por período;
+- Resumos de gastos;
+- Insights automáticos.
+
+### Educação Financeira
+
+Responder dúvidas financeiras utilizando linguagem simples e acessível.
+
+---
+
+## Pós-MVP
+
+### Gestão de Investimentos
+
+- Cadastro de ativos;
+- Rentabilidade;
+- Distribuição da carteira;
+- Evolução patrimonial.
+
+### Inteligência de Mercado
+
+- Notícias financeiras;
+- Indicadores econômicos;
+- Resumos gerados por IA.
+
+### Geolocalização Inteligente
+
+- Moeda local;
+- Conteúdo regionalizado;
+- Indicadores econômicos locais.
+
+---
+
+# 7. Requisitos Funcionais
+
+## RF01 – Registro Conversacional
+
+O sistema deve interpretar mensagens como:
+
+- "Recebi R$ 3.000 de salário."
+- "Gastei R$ 80 com combustível."
+
+E registrar automaticamente a movimentação.
+
+---
+
+## RF02 – Classificação Automática
+
+O sistema deve identificar:
+
+- Tipo da movimentação;
+- Valor;
+- Categoria;
+- Data.
+
+---
+
+## RF03 – Consulta Financeira
+
+O usuário poderá solicitar:
+
+- Saldo atual;
+- Gastos por categoria;
+- Receitas;
+- Histórico financeiro.
+
+---
+
+## RF04 – Gestão de Metas
+
+Permitir:
+
+- Criar metas;
+- Editar metas;
+- Excluir metas;
+- Acompanhar progresso.
+
+---
+
+## RF05 – Relatórios
+
+Gerar análises contendo:
+
+- Principais despesas;
+- Evolução financeira;
+- Comparações históricas;
+- Insights automáticos.
+
+---
+
+## RF06 – Assistente Educacional
+
+Responder perguntas sobre:
+
+- Inflação;
+- Juros;
+- Investimentos;
+- Planejamento financeiro;
+- Orçamento pessoal.
+
+---
+
+# 8. Requisitos Não Funcionais
+
+## Usabilidade
+
+- Interface intuitiva;
+- Curva de aprendizado mínima;
+- Menor esforço cognitivo possível.
+
+## Performance
+
+- Respostas da IA em tempo adequado;
+- Atualização imediata do dashboard;
+- Navegação fluida.
+
+## Escalabilidade
+
+Arquitetura preparada para:
+
+- Módulo de investimentos;
+- Módulo econômico;
+- Novas integrações futuras.
+
+## Segurança
+
+- Autenticação segura;
+- Proteção de dados financeiros;
+- Conformidade com LGPD.
+
+---
+
+# 9. Acessibilidade e Inclusão
+
+O sistema deve seguir as diretrizes WCAG 2.2.
+
+## Recursos
+
+- Ajuste de fonte;
+- Alto contraste;
+- Navegação por teclado;
+- Compatibilidade com leitores de tela;
+- Entrada por voz;
+- Leitura por voz.
+
+## Design Universal
+
+O produto deve ser utilizável independentemente de:
+
+- Idade;
+- Escolaridade;
+- Conhecimento financeiro;
+- Experiência tecnológica;
+- Limitações físicas;
+- Limitações cognitivas.
+
+---
+
+# 10. Experiência do Usuário (UX)
+
+## Princípios
+
+### Simplicidade
+
+O usuário deve conseguir utilizar o produto sem treinamento.
+
+### Conversação em Primeiro Lugar
+
+O chat deve ser o elemento central da experiência.
+
+### Feedback Imediato
+
+Toda ação deve apresentar confirmação clara.
+
+Exemplos:
+
+- Despesa registrada;
+- Meta criada;
+- Relatório atualizado.
+
+### Orientação Contínua
+
+O sistema deve auxiliar usuários iniciantes por meio de:
+
+- Sugestões;
+- Exemplos;
+- Dicas contextuais.
+
+---
+
+# 11. Interface e Design (UI)
+
+## Estilo Visual
+
+Referências:
+
+- ChatGPT
+- Microsoft Copilot
+- Notion
+- Stripe
+- Linear
+
+### Características
+
+- Layout limpo;
+- Design minimalista;
+- Hierarquia visual clara;
+- Mobile First.
+
+## Temas
+
+- Light
+- Dark Red
+- Dark Green
+- Dark Coffee
+- Dark Gold
+
+## Tipografia
+
+Preferencialmente:
+
+- Inter
+- Geist
+- Open Sans
+
+## Componentes
+
+- Chat
+- Cards
+- Gráficos
+- Alertas
+- Menus
+- Modais
+- Botões
+
+---
+
+# 12. Principais Telas
+
+## Tela 1 – Login e Cadastro
+
+Métodos:
+
+- E-mail
+- Google
+- Microsoft
+
+## Tela 2 – Chat Principal
+
+Funcionalidades:
+
+- Conversação com IA;
+- Registro financeiro;
+- Consultas rápidas.
+
+## Tela 3 – Dashboard
+
+- Saldo;
+- Receitas;
+- Despesas;
+- Metas;
+- Indicadores.
+
+## Tela 4 – Metas Financeiras
+
+- Cadastro;
+- Evolução;
+- Progresso.
+
+## Tela 5 – Relatórios
+
+- Diário;
+- Semanal;
+- Mensal;
+- Anual.
+
+## Tela 6 – Configurações
+
+- Tema;
+- Idioma;
+- Fonte;
+- Voz;
+- Preferências.
+
+### Telas Pós-MVP
+
+- Investimentos;
+- Mercado Financeiro.
+
+---
+
+# 13. Fluxos Principais
+
+## Fluxo 1 – Onboarding
+
+1. Cadastro ou Login;
+2. Configuração inicial;
+3. Permissões opcionais;
+4. Entrada no Chat Principal.
+
+---
+
+## Fluxo 2 – Registrar Receita ou Despesa
+
+1. Usuário envia mensagem;
+2. IA interpreta;
+3. IA confirma;
+4. Registro realizado;
+5. Dashboard atualizado.
+
+---
+
+## Fluxo 3 – Consultar Situação Financeira
+
+1. Usuário faz pergunta;
+2. Sistema processa;
+3. IA apresenta resposta.
+
+---
+
+## Fluxo 4 – Criar Meta
+
+1. Definir objetivo;
+2. Definir valor;
+3. Salvar meta;
+4. Acompanhar progresso.
+
+---
+
+## Fluxo 5 – Solicitar Relatório
+
+1. Solicitação;
+2. Geração automática;
+3. Exibição de insights.
+
+---
+
+## Fluxo 6 – Aprendizagem Financeira
+
+1. Pergunta;
+2. Explicação;
+3. Exemplo prático.
+
+---
+
+# 14. Arquitetura Tecnológica
+
+## Frontend
+
+- Next.js
+- React
+- Tailwind CSS
+- Shadcn/UI
+
+## Backend
+
+- Supabase
+- PostgreSQL
+
+## Inteligência Artificial
+
+- OpenAI
+- Microsoft AI Services
+
+## Integrações
+
+- APIs Financeiras;
+- Speech-to-Text;
+- Text-to-Speech;
+- Geolocalização.
+
+---
+
+# 15. Métricas de Sucesso
+
+O MVP será considerado validado quando atingir:
+
+- 70% dos usuários realizando registros sem auxílio;
+- Tempo médio de registro inferior a 15 segundos;
+- Retenção superior a 40% após 30 dias;
+- Avaliação média superior a 4 estrelas;
+- Pelo menos 50 usuários ativos durante os testes iniciais.
+
+---
+
+# 16. Restrições e Compliance
+
+A plataforma possui caráter exclusivamente educativo e informativo.
+
+Não deve:
+
+- Executar operações financeiras;
+- Comprar ou vender ativos;
+- Garantir rentabilidade;
+- Prometer lucros futuros;
+- Fornecer recomendações financeiras personalizadas.
+
+---
+
+# 17. Diretrizes da IA
+
+A assistente deve atuar como:
+
+- Educadora financeira;
+- Organizadora financeira;
+- Facilitadora da tomada de decisão.
+
+## Comportamento Esperado
+
+- Comunicar-se em Português do Brasil;
+- Utilizar linguagem simples;
+- Ser acolhedora e didática;
+- Explicar riscos e benefícios de forma equilibrada;
+- Evitar jargões excessivos;
+- Não realizar aconselhamento financeiro individual.
+
+---
+
+# 18. Critérios de Produto
+
+## O Produto Deve Ser
+
+- Simples;
+- Conversacional;
+- Educativo;
+- Acessível;
+- Inclusivo;
+- Mobile First;
+- Centrado no usuário.
+
+## O Usuário Deve Sentir
+
+- Clareza;
+- Segurança;
+- Controle;
+- Confiança;
+- Facilidade de uso;
+- Evolução financeira contínua.
+
+---
+
+# Visão Final
+
+O Bolso Cheio Finanças combina:
+
+- Assistente financeiro;
+- Professor de educação financeira;
+- Plataforma moderna de produtividade.
+
+Toda a experiência deve ser orientada por simplicidade, acessibilidade, personalização e educação financeira, utilizando a conversa como principal interface de interação.
+````
 
 </details>
 
@@ -154,8 +738,21 @@ O projeto está acusando erro de building. Verifique e corrija.
 
 ## 📷 Prints ou Vídeos das Interações
 
-> Adicione aqui os prints ou vídeos das conversas com a IA.
+<p align="center">
+  <img src="Screenshot_2026-10-01-02-05-16-461_com.android.chrome.jpg" width="250">
+  
+  <img src="Screenshot_2026-10-01-02-07-57-584_com.android.chrome.jpg" width="250">
+  
+  <img src="Screenshot_2026-10-01-02-11-54-652_com.android.chrome.jpg" width="250">
+  
+   <img src="Screenshot_2026-10-01-02-12-02-237_com.android.chrome.jpg" width="250">
 
+  <img src="Screenshot_2026-10-01-02-12-08-614_com.android.chrome.jpg" width="250">
+
+  <img src="Screenshot_2026-10-01-02-12-23-347_com.android.chrome.jpg" width="250">
+
+  <img src="Screenshot_2026-10-01-02-12-28-420_com.android.chrome.jpg" width="250">
+</p>
 ---
 
 # 📱 Bolso Cheio Finanças
