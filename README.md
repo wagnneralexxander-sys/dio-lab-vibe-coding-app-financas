@@ -1186,6 +1186,48 @@ Os resultados deverão ser apresentados dinamicamente na interface.
 ### Prints das Atualizações do Bolso Cheio Finanças
 
 
+<p align="center">
+  <img src="Screenshot_2026-10-01-23-03-11-442_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-03-33-731_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-03-43-828_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-03-57-627_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-05-21-426_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-05-53-791_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-06-33-566_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-07-19-125_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-08-10-654_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-08-13-970_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-08-20-782_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-08-29-012_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-08-34-560_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-09-13-951_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-09-23-199_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-10-22-014_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-10-41-704_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-10-44-627_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-10-47-228_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-11-08-233_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-11-25-235_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-11-34-220_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-11-58-042_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-12-04-996_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-12-11-738_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-12-21-774_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-12-27-494_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-12-36-229_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-12-40-958_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-12-44-212_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-12-47-076_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-12-50-228_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-13-14-683_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-13-20-705_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-13-24-473_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-13-29-339_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-13-33-297_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-13-38-808_com.android.chrome.jpg" width="180">
+  <img src="Screenshot_2026-10-01-23-13-45-803_com.android.chrome.jpg" width="180">
+</p>
+
 
 ---
 
