@@ -974,8 +974,9 @@ Cada interação é um experimento.
 > Quanto mais clara for sua intenção, mais surpreendente será o resultado.
 
 ---
+## Atualização Projeto Bolso Cheio Finanças 
 
-### Melhorias aplicadas
+### Atualização e Melhorias aplicadas
 
 - Hierarquia visual mais organizada.
 - Uso consistente de títulos e subtítulos.
@@ -985,3 +986,508 @@ Cada interação é um experimento.
 - Destaques visuais mais limpos.
 - Leitura mais fluida em desktop e mobile.
 - Mantido **100% do conteúdo original**, sem adicionar novas informações ao projeto.
+
+Claro. Abaixo está uma versão **limpa, padronizada e pronta para colar no `README.md` do GitHub**, organizada como documentação de atualizações do **Bolso Cheio Finanças**.
+
+# 💰 Bolso Cheio Finanças
+
+## 🚀 Atualizações do Aplicativo
+
+Esta versão do **Bolso Cheio Finanças** traz melhorias de personalização, acessibilidade, gerenciamento financeiro, relatórios, investimentos, inteligência artificial e acompanhamento do mercado financeiro.
+
+---
+
+## ⚙️ 1. Menu de Configurações
+
+Foi adicionado um **botão fixo de configurações**, disponível na interface do aplicativo, com acesso rápido às principais opções de personalização e gerenciamento da conta.
+
+### Opções disponíveis
+
+#### 🔐 1.1 Logout
+
+Permite ao usuário encerrar sua sessão com segurança através da opção:
+
+* **Logoff**
+
+---
+
+## 🎨 2. Temas da Interface
+
+O aplicativo passa a disponibilizar diferentes temas visuais para personalização da interface.
+
+### Temas disponíveis
+
+* ☀️ **Light**
+* ☕ **Dark with Coffee**
+* ❤️ **Dark with Red**
+* 💚 **Dark with Green**
+* 💛 **Dark with Yellow**
+* 🩵 **Dark with Cian**
+
+O tema selecionado deverá ser aplicado à interface do aplicativo e permanecer ativo durante a utilização do sistema.
+
+---
+
+## 👤 3. Perfil do Usuário
+
+Foi implementado um espaço específico para gerenciamento das informações pessoais do usuário.
+
+### Informações disponíveis
+
+* Nome
+* Idade
+* CPF
+* Foto de perfil
+
+### 🖼️ Foto de perfil
+
+O usuário poderá selecionar uma imagem através de:
+
+* 📷 Câmera do dispositivo
+* 🖼️ Galeria de fotos
+
+**Limite máximo:** `10 MB`
+
+---
+
+## 🔠 4. Personalização da Fonte
+
+O aplicativo passa a permitir a personalização da aparência dos textos.
+
+### Tamanho da fonte
+
+O usuário poderá selecionar tamanhos entre:
+
+```text
+10px → 50px
+```
+
+### Recursos
+
+* Ajuste do tamanho da fonte
+* Seleção de diferentes famílias de fontes
+* Aplicação das configurações em toda a interface compatível
+
+---
+
+## 🔊 5. Leitura de Texto — TTS
+
+Implementação de **Text-to-Speech (TTS)** para permitir que o aplicativo leia informações em voz alta.
+
+### Recursos
+
+* Leitura de textos
+* Controle através das configurações
+* Voz masculina
+* Voz feminina
+
+O recurso deverá auxiliar principalmente na acessibilidade e na utilização do aplicativo através de comandos e respostas por áudio.
+
+---
+
+# 🤖 6. Modo Criativo da Inteligência Artificial
+
+Foi criado um **Modo Criativo**, permitindo que a IA apresente conteúdos de maneira mais envolvente, didática e visual.
+
+Nesse modo, a inteligência artificial poderá utilizar:
+
+* 📊 Gráficos
+* 🖼️ Imagens
+* 🎥 Vídeos
+* 📈 Dados visuais
+* 📚 Explicações passo a passo
+* 💡 Exemplos práticos
+* 🎯 Cenários simulados
+
+O objetivo é transformar informações financeiras complexas em conteúdos mais fáceis de compreender.
+
+---
+
+# 📊 7. Relatórios Financeiros
+
+A página de relatórios passa a contar com diferentes períodos de análise.
+
+### Períodos
+
+* 📅 Diário
+* 📆 Semanal
+* 🗓️ Mensal
+* 📊 Anual
+
+Os dados deverão ser atualizados de acordo com as informações cadastradas pelo usuário.
+
+### 📄 Formatos de exportação
+
+Os relatórios poderão ser gerados em:
+
+* **PDF**
+* **HTML**
+
+---
+
+## 🖨️ 7.1 Temas para Relatórios HTML
+
+Os relatórios HTML deverão disponibilizar opções específicas para impressão:
+
+* ☕ Dark with Coffee
+* 💚 Dark with Green
+* 💛 Dark with Yellow
+* 🩵 Dark with Cian
+
+---
+
+# ✏️ 8. Edição e Exclusão de Registros
+
+As páginas que possuem registros financeiros deverão disponibilizar ações para gerenciamento dos dados.
+
+### Ações
+
+* ✏️ Editar
+* 🗑️ Excluir
+
+### Exemplos
+
+No **Painel Financeiro**, uma renda cadastrada deverá apresentar:
+
+```text
+[ Editar ] [ Excluir ]
+```
+
+O mesmo princípio deverá ser aplicado às páginas de:
+
+* 💰 Rendas
+* 🎯 Metas
+* 📈 Investimentos
+* Outros registros financeiros
+
+### Exceções
+
+A página inicial de mensagens da IA não deverá possuir botões tradicionais de edição/exclusão de registros.
+
+---
+
+# 📑 9. Gerenciamento de Relatórios
+
+Na página de relatórios deverá existir:
+
+### 🗑️ Excluir relatório
+
+Permite remover relatórios gerados pelo usuário.
+
+Não deverá existir um botão tradicional de **Editar relatório**.
+
+Em seu lugar estarão disponíveis os filtros:
+
+```text
+[ Diário ] [ Semanal ] [ Mensal ] [ Anual ]
+```
+Os resultados deverão ser apresentados dinamicamente na interface.
+
+### Prints das Atualizações do Bolso Cheio Finanças
+
+
+
+---
+
+# 📈 10. Análise Financeira em Tempo Real
+
+Ao selecionar um período, o aplicativo deverá apresentar informações financeiras através de gráficos e indicadores.
+
+### Informações analisadas
+
+* Rendimentos
+* Receitas
+* Despesas
+* Meses
+* Parcelas
+* Dívidas
+* Lucros
+* Prejuízos
+* Investimentos
+* Tendências de alta
+* Tendências de baixa
+* Evolução patrimonial
+
+Os dados deverão ser apresentados de maneira visual e compreensível.
+
+---
+
+# 🤖📈 11. IA como Assistente Financeiro
+
+A inteligência artificial deverá auxiliar o usuário na análise de seus investimentos e informações financeiras.
+
+A IA poderá analisar os ativos cadastrados pelo usuário e apresentar informações sobre:
+
+* Evolução dos investimentos
+* Desempenho dos ativos
+* Tendências históricas
+* Cenários possíveis
+* Projeções matemáticas
+* Riscos
+* Possíveis estratégias
+* Distribuição dos investimentos
+
+Quando solicitado pelo usuário, a IA poderá apresentar **cenários educacionais** envolvendo ações como:
+
+* Comprar
+* Vender
+* Manter
+* Sacar
+* Depositar
+* Rebalancear
+
+> ⚠️ **Importante:** qualquer projeção, estimativa ou indicação apresentada pela IA possui caráter exclusivamente informativo e educacional. Previsões financeiras podem apresentar erros e não garantem resultados futuros. O usuário é responsável por suas próprias decisões financeiras e deve avaliar os riscos antes de realizar qualquer operação.
+
+### 🟨 Aviso de risco
+
+As informações relacionadas a investimentos deverão ser destacadas visualmente em **amarelo**, utilizando símbolos de atenção/perigo.
+
+Exemplo:
+
+> ⚠️ **ATENÇÃO:** As informações apresentadas pela IA são meramente educacionais. Estimativas e projeções podem estar incorretas e não representam garantia de retorno. Não tome decisões de investimento exclusivamente com base nessas informações.
+
+---
+
+# 🌎 12. Central de Notícias e Mercado Global
+
+Será criada uma página específica dedicada a notícias e acontecimentos capazes de impactar os mercados financeiros.
+
+### Categorias
+
+* 💰 Finanças
+* 🏛️ Política
+* 🌍 Economia mundial
+* ⚔️ Guerras e conflitos
+* 🦠 Doenças e pandemias
+* 🌐 Eventos internacionais
+* 🛢️ Commodities
+* ⚡ Energia
+* 🌾 Outros acontecimentos com possível impacto econômico
+
+A IA poderá explicar de maneira didática:
+
+**Evento → possível impacto → mercados afetados → possíveis cenários**
+
+---
+
+# 💱 13. Indicadores do Mercado
+
+A central de mercado deverá apresentar informações atualizadas sobre diferentes ativos e commodities.
+
+### Indicadores
+
+| Ativo        | Informação              |
+| ------------ | ----------------------- |
+| 🇺🇸 Dólar   | Cotação e variação      |
+| 🇪🇺 Euro    | Cotação e variação      |
+| 🥈 Prata     | Cotação e variação      |
+| 🥇 Ouro      | Cotação e variação      |
+| 🛢️ Petróleo | Cotação e variação      |
+| ⚡ Energia    | Indicadores disponíveis |
+| 💧 Água      | Indicadores disponíveis |
+| 🔥 Gás       | Cotação e variação      |
+
+Quando possível, deverão ser exibidos:
+
+* Valor atual
+* Variação
+* Histórico
+* Gráficos
+* Tendência
+* Data/hora da atualização
+* Fonte dos dados
+
+---
+
+# ₿ 14. Central de Criptomoedas
+
+Será criada uma página exclusiva para acompanhamento do mercado de criptomoedas.
+
+A interface deverá apresentar uma coleção visual de moedas em formato de **moedas flutuantes**, contendo:
+
+* Nome
+* Código/símbolo
+* Logo
+* Valor
+* Variação
+* Tendência
+
+---
+
+## 🔍 14.1 Informações da Criptomoeda
+
+Ao clicar em uma criptomoeda, será aberta uma interface detalhada.
+
+### Informações
+
+* Nome
+* Símbolo
+* Valor atual
+* Capitalização de mercado
+* Volume
+* Histórico
+* Gráficos
+* Tendência
+* Variação
+* Oferta circulante
+* Oferta máxima, quando aplicável
+* Data de criação
+* Objetivo do projeto
+* Tecnologia utilizada
+* Problema que busca solucionar
+* Desenvolvedores
+* Empresas e organizações relacionadas
+* Investidores ou entidades públicas identificáveis
+* Ecossistema
+* Principais aplicações
+* Riscos
+* Notícias relacionadas
+
+---
+
+# 🧠 15. Inteligência Artificial e Comandos por Chat
+
+A IA poderá administrar os dados financeiros do usuário através de comandos realizados diretamente pelo chat.
+
+O usuário poderá utilizar:
+
+### 💬 Texto
+
+Exemplo:
+
+```text
+Crie uma meta para economizar R$ 5.000 até dezembro.
+```
+
+```text
+Edite minha meta de viagem para R$ 7.000.
+```
+
+```text
+Exclua a meta de comprar um carro.
+```
+
+### 🎙️ Voz
+
+As mesmas operações poderão ser realizadas através de comandos de voz.
+
+Exemplo:
+
+> "Crie um investimento de R$ 500 por mês."
+
+> "Edite minha meta de emergência para R$ 10 mil."
+
+> "Exclua meu evento de pagamento do aluguel."
+
+---
+
+# 🤖 16. Gerenciamento de Eventos, Metas e Investimentos pela IA
+
+A inteligência artificial deverá possuir capacidade de:
+
+### Criar
+
+* Eventos
+* Metas
+* Investimentos
+* Registros financeiros
+* Relatórios
+
+### Editar
+
+* Eventos
+* Metas
+* Investimentos
+* Registros existentes
+
+### Excluir
+
+* Eventos
+* Metas
+* Investimentos
+* Registros existentes
+
+Todas essas ações poderão ser solicitadas através de:
+
+* 💬 Texto
+* 🎙️ Comando de voz
+
+Antes de executar operações potencialmente destrutivas, o sistema deverá identificar claramente o registro que será alterado ou excluído e solicitar confirmação quando necessário.
+
+---
+
+# 🛡️ 17. Segurança e Confirmação de Operações
+
+Operações que alterem ou excluam dados deverão possuir mecanismos para evitar ações acidentais.
+
+### Operações recomendadas para confirmação
+
+* Exclusão de renda
+* Exclusão de investimento
+* Exclusão de meta
+* Exclusão de evento
+* Exclusão de relatório
+
+Exemplo:
+
+```text
+⚠️ Deseja realmente excluir esta renda?
+
+[ Cancelar ] [ Confirmar exclusão ]
+```
+
+---
+
+# 📱 18. Experiência do Usuário
+
+As novas funcionalidades deverão manter uma interface:
+
+* Responsiva
+* Compatível com dispositivos móveis
+* Compatível com desktop
+* Acessível
+* Visualmente consistente
+* Fácil de utilizar
+* Com navegação simples
+
+As novas funcionalidades devem ser integradas à estrutura existente sem comprometer as funcionalidades atuais do aplicativo.
+
+---
+
+# 📌 Resumo das Atualizações
+
+| Funcionalidade                  | Status           |
+| ------------------------------- | ---------------- |
+| ⚙️ Menu de configurações        | 🟡 Implementação |
+| 🔐 Logout                       | 🟡 Implementação |
+| 🎨 Temas                        | 🟡 Implementação |
+| 👤 Perfil                       | 🟡 Implementação |
+| 🖼️ Foto de perfil              | 🟡 Implementação |
+| 🔠 Tamanho da fonte             | 🟡 Implementação |
+| 🔤 Seleção de fontes            | 🟡 Implementação |
+| 🔊 TTS                          | 🟡 Implementação |
+| 🎨 Modo Criativo                | 🟡 Implementação |
+| 📊 Relatórios                   | 🟡 Implementação |
+| 📄 Exportação PDF               | 🟡 Implementação |
+| 🌐 Exportação HTML              | 🟡 Implementação |
+| ✏️ Edição de registros          | 🟡 Implementação |
+| 🗑️ Exclusão de registros       | 🟡 Implementação |
+| 🌎 Notícias globais             | 🟡 Implementação |
+| 💱 Mercado financeiro           | 🟡 Implementação |
+| ₿ Criptomoedas                  | 🟡 Implementação |
+| 🤖 IA financeira                | 🟡 Implementação |
+| 🎙️ Comandos por voz            | 🟡 Implementação |
+| 🧠 IA para criar/editar/excluir | 🟡 Implementação |
+
+---
+
+## 🎯 Objetivo da Atualização
+
+Transformar o **Bolso Cheio Finanças** em uma plataforma completa de organização financeira, análise de investimentos, acompanhamento de mercados e educação financeira, utilizando inteligência artificial para facilitar a compreensão dos dados e a interação do usuário com o sistema.
+
+A IA deverá funcionar como uma **assistente financeira educacional**, capaz de interpretar informações, gerar análises, criar relatórios, explicar conceitos e auxiliar o usuário na administração de seus dados financeiros.
+
+> ⚠️ **Aviso:** informações financeiras, projeções, tendências e cenários apresentados pelo sistema possuem caráter informativo e educacional. Mercados financeiros são imprevisíveis e qualquer decisão de investimento envolve riscos. O usuário deve realizar sua própria análise e assumir a responsabilidade por suas decisões.
+
+Essa estrutura já está adequada para um `README.md`, com hierarquia de títulos, tabelas, emojis e seções separadas. Também ajustei um ponto importante: em vez de afirmar que a IA **prevê** o mercado ou garante retornos, a documentação descreve **projeções, cenários e tendências**, que é tecnicamente mais apropriado para uma aplicação financeira.
+
